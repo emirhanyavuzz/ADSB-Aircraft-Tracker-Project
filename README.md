@@ -10,10 +10,10 @@ Bu proje, havadaki uçakların konum, hız, irtifa ve kimlik bilgilerini ADS-B (
 
 <img width="1026" height="532" alt="Ekran görüntüsü 2025-12-03 145840" src="https://github.com/user-attachments/assets/3ca91d0f-acb1-449a-b8be-9d797fbb6653" />
 
-📬 **İletişim**
+ **İletişim**
 
 Her türlü katkı, öneri veya işbirliği için:
 
-📧 **Mail:** yavuz.emirhan@outlook.com
+ **Mail:** yavuz.emirhan@outlook.com
 
-🔗 **GitHub:** https://github.com/emirhanyavuzz
+ **GitHub:** https://github.com/emirhanyavuzz
